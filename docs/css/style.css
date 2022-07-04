@@ -1808,7 +1808,8 @@ textarea:focus {
   }
 
   .details__slider-container {
-    margin: 0 -42.5px;
+    margin-right: -42.5;
+    margin-left: -42.5;
   }
 
   .details__slider-next {
